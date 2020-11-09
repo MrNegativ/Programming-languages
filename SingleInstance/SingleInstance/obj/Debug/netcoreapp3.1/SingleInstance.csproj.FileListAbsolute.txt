@@ -1,0 +1,13 @@
+C:\Users\fishe\source\repos\Programming-languages\PR 8\sector 2\SingleInstance\SingleInstance\obj\Debug\netcoreapp3.1\SingleInstance.csprojAssemblyReference.cache
+C:\Users\fishe\source\repos\Programming-languages\PR 8\sector 2\SingleInstance\SingleInstance\obj\Debug\netcoreapp3.1\SingleInstance.AssemblyInfoInputs.cache
+C:\Users\fishe\source\repos\Programming-languages\PR 8\sector 2\SingleInstance\SingleInstance\obj\Debug\netcoreapp3.1\SingleInstance.AssemblyInfo.cs
+C:\Users\fishe\source\repos\Programming-languages\PR 8\sector 2\SingleInstance\SingleInstance\obj\Debug\netcoreapp3.1\SingleInstance.csproj.CoreCompileInputs.cache
+C:\Users\fishe\source\repos\Programming-languages\PR 8\sector 2\SingleInstance\SingleInstance\bin\Debug\netcoreapp3.1\SingleInstance.exe
+C:\Users\fishe\source\repos\Programming-languages\PR 8\sector 2\SingleInstance\SingleInstance\bin\Debug\netcoreapp3.1\SingleInstance.deps.json
+C:\Users\fishe\source\repos\Programming-languages\PR 8\sector 2\SingleInstance\SingleInstance\bin\Debug\netcoreapp3.1\SingleInstance.runtimeconfig.json
+C:\Users\fishe\source\repos\Programming-languages\PR 8\sector 2\SingleInstance\SingleInstance\bin\Debug\netcoreapp3.1\SingleInstance.runtimeconfig.dev.json
+C:\Users\fishe\source\repos\Programming-languages\PR 8\sector 2\SingleInstance\SingleInstance\bin\Debug\netcoreapp3.1\SingleInstance.dll
+C:\Users\fishe\source\repos\Programming-languages\PR 8\sector 2\SingleInstance\SingleInstance\bin\Debug\netcoreapp3.1\SingleInstance.pdb
+C:\Users\fishe\source\repos\Programming-languages\PR 8\sector 2\SingleInstance\SingleInstance\obj\Debug\netcoreapp3.1\SingleInstance.dll
+C:\Users\fishe\source\repos\Programming-languages\PR 8\sector 2\SingleInstance\SingleInstance\obj\Debug\netcoreapp3.1\SingleInstance.pdb
+C:\Users\fishe\source\repos\Programming-languages\PR 8\sector 2\SingleInstance\SingleInstance\obj\Debug\netcoreapp3.1\SingleInstance.genruntimeconfig.cache
